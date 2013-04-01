@@ -148,8 +148,6 @@ static struct console *exclusive_console;
 /*
  *	Array of consoles built from command line options (console=)
  */
- 
- 
 struct console_cmdline
 {
 	char	name[8];			/* Name of the driver	    */
