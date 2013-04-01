@@ -1,1 +1,0 @@
-cmd_mediatek/source/kernel/drivers/combo/common/built-in.o :=  rm -f mediatek/source/kernel/drivers/combo/common/built-in.o; arm-linux-androideabi-ar rcsD mediatek/source/kernel/drivers/combo/common/built-in.o

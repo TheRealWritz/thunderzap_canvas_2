@@ -1,1 +1,0 @@
-cmd_mediatek/source/kernel/drivers/thermal/built-in.o :=  arm-linux-androideabi-ld.bfd -EL    -r -o mediatek/source/kernel/drivers/thermal/built-in.o mediatek/source/kernel/drivers/thermal/mtk_thermal_monitor.o mediatek/source/kernel/drivers/thermal/mtk_cooler_shutdown.o mediatek/source/kernel/drivers/thermal/mtk_cooler_backlight.o 
